@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">MySQL</string>
+
+    <string-array name="spingarr1">
+        <item>雪松苑</item>
+        <item>梧桐苑</item>
+        <item>海棠苑</item>
+        <item>筠竹苑</item>
+    </string-array>
+    <string-array name="spingarr2">
+        <item>101</item>
+        <item>102</item>
+        <item>201</item>
+        <item>202</item>
+    </string-array>
 </resources>
